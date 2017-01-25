@@ -3,6 +3,7 @@ This function is fired when the webpage is loaded
 */
 $(document).ready(function(){
    $('.all-content').hide(); 
+   $('#goals-content').show();
 });
 
 /*
