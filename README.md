@@ -8,7 +8,7 @@ Starting with the [starter files in this repository](https://cdn.rawgit.com/ogoo
 # Student instructions
 1. Fork this repository
 2. Open your new repository in cloud9
-3. Preview index.html and you will see the steps you need to complete.
+3. Preview index.html and press the "PROJECT GOALS" button and you will see the steps you need to complete.
 
 # Topics
 Students will need to use the following skills
