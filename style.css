@@ -10,3 +10,8 @@ body {
 .btn {
     margin: 5px;
 }
+
+#pasta-img { 
+    height: 150px; 
+    width: 150px;
+}
